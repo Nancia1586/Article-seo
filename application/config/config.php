@@ -36,6 +36,7 @@ $config['base_url'] = 'http://localhost/Article';
 |
 */
 $config['index_page'] = 'index.php';
+// $config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -493,6 +494,7 @@ $config['time_reference'] = 'local';
 |
 */
 $config['rewrite_short_tags'] = FALSE;
+// $config['rewrite_short_tags'] = TRUE;
 
 /*
 |--------------------------------------------------------------------------
